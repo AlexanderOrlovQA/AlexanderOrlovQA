@@ -6,7 +6,7 @@
 
 Я тестировщик по различным направлениям тестирования. Тестирование веб-приложений, мобильных приложений, API, тестирование радиоэлектроники .
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)] [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:graf5584471@gmail.com)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@-blue?style=flat&logo=LinkedIn&logoColor=white)] [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:graf5584471@gmail.com)
 
 ---
 
