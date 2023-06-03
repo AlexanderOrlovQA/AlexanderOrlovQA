@@ -81,6 +81,9 @@
     <div><a href="https://github.com/AlexanderOrlovQA/web_test" target="_blank">
 • Тест-кейсы вэб тестирование
     </a></div>
+    <div><a href="https://github.com/AlexanderOrlovQA/bug" target="_blank">
+• Отчеты об ошибках
+    </a></div>
 
 ---
 
