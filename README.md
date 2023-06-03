@@ -75,8 +75,8 @@
 
 ###  Тестовые артефакты
   
-  <a href="https://www.linkedin.com/" target="_blank">
-      ысввв
+  <a href="https://github.com/AlexanderOrlovQA/mob-test" target="_blank">
+      Тест-кейсы мобильное тестирование
     </a>
 
 ---
