@@ -75,6 +75,11 @@
 
 ###  Тестовые артефакты
   <div id="badges">Тест-кейсы мобильное тестирование<a href="https://github.com/AlexanderOrlovQA/mob-test" target="_blank">/div>
+  
+    <div id="badges">
+    <a href="https://www.linkedin.com/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
 
 
 ---
