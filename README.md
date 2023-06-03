@@ -74,7 +74,7 @@
 ---
 
 ###  Тестовые артефакты
-  <div>Тест-кейсы мобильное тестирование<a href="https://github.com/AlexanderOrlovQA/mob-test" target="_blank">/div>
+  <div id="badges">Тест-кейсы мобильное тестирование<a href="https://github.com/AlexanderOrlovQA/mob-test" target="_blank">/div>
 
 
 ---
