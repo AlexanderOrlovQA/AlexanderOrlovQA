@@ -73,11 +73,8 @@
 
 ---
 
-###  Тестовые артефакты  ![image](https://github.com/AlexanderOrlovQA/AlexanderOrlovQA/assets/134630436/72011434-58a5-41d9-8827-5aa3499d6be0)
+###  Тестовые артефакты 
 
-
-https://e7.pngegg.com/pngimages/575/704/png-clipart-computer-icons-test-scalable-graphics-test-score-angle-pencil.png
-  
   <div><a href="https://github.com/AlexanderOrlovQA/mob-test" target="_blank">
 • Тест-кейсы мобильное тестирование
     </a></div>
