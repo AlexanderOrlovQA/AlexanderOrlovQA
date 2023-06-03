@@ -75,12 +75,12 @@
 
 ###  Тестовые артефакты
   
-  <a href="https://github.com/AlexanderOrlovQA/mob-test" target="_blank">
+  <div><a href="https://github.com/AlexanderOrlovQA/mob-test" target="_blank">
 • Тест-кейсы мобильное тестирование
-    </a>
-    <a href="https://github.com/AlexanderOrlovQA/web_test" target="_blank">
+    </a></div>
+    <div><a href="https://github.com/AlexanderOrlovQA/web_test" target="_blank">
 • Тест-кейсы вэб тестирование
-    </a>
+    </a></div>
 
 ---
 
