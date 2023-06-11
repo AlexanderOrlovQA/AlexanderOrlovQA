@@ -38,8 +38,9 @@
   <img src="https://docs.testit.software/images/testit_logo_icon.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="clickup" width="40" height="40"/>&nbsp
-  <img src=https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci82OWI5ZjNhZGFmYmZmYzJlMzJjMGZmYmFjZjRmODg4OD9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.0dpntOFOXcuyC-GWZNL5Xd7YSQAvxXE7wJFUenb2rbc"" title="figma" alt="miro" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/npm/clickup@0.0.1/index.min.js" title="clickup" alt="clickup" width="40" height="40"/>&nbsp
+  <img src="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci82OWI5ZjNhZGFmYmZmYzJlMzJjMGZmYmFjZjRmODg4OD9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.0dpntOFOXcuyC-GWZNL5Xd7YSQAvxXE7wJFUenb2rbc" title="figma" alt="miro" width="40" height="40"/>&nbsp
+
 </div>
 
 ---
