@@ -90,7 +90,14 @@ QA Engineer, тестирование вэб и мобильных прилож�
 • Отчеты об ошибках
     </a></div>
 
----
+
+
+### My CV
+
+  <div><a href="https://drive.google.com/file/d/1MhBMopT2z4M1_nWFmlWgNaZpl6z3d78m/view?usp=sharing" target="_blank">
+• Посмотреть CV
+    </a></div>
+
 
 <!-- ### 💻 Пройденные курсы:
 
@@ -99,5 +106,6 @@ QA Engineer, тестирование вэб и мобильных прилож�
 | netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
 
 --- -->
+---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AlexanderOrlovQA)
