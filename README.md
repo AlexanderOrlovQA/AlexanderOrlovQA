@@ -7,7 +7,7 @@
 QA Engineer, тестирование вэб и мобильных приложений на всех стадиях жизни продукта, тестирование и организация тестирования радиоэлектронного оборудования. Владение актуальными инструментами тестирования и ведения документации. Организация работы сотрудников. Коммуникация между клиентом и сотрудниками.
 
 📫 Как связаться со мной: 
-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:orlovalexandrqa@gmail.com)
+- [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexorlovqa@gmail.com)
 -   <div id="badges">
        <a href="https://t.me/OrlovAlexandrQA" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
